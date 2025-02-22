@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis with BERT (NLP) 🐦
+# Twitter Sentiment Analysis with BERT NLP 🐦
 
 ## 📌 Project Overview
 This project performs **sentiment analysis** on tweets using **BERT (Bidirectional Encoder Representations from Transformers)**. It classifies tweets as **Positive 😊, Neutral 😐, or Negative 😠** using a fine-tuned **BERT model**.
